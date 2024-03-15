@@ -1,1 +1,1 @@
-# Rick-_and-_Morty_API_FLASK
+# Rick_and_Morty_API_FLASK
